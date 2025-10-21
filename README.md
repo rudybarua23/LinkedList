@@ -20,7 +20,7 @@ All methods are implemented in `list.js`. :contentReference[oaicite:0]{index=0}
 
 ```
 
-## 🧠 How it works (quick)
+## 🧠 How it works
 
 - Node holds { value, next }.
 - LinkedList keeps a head pointer and traverses via next to implement all operations.

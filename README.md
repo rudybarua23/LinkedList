@@ -1,4 +1,4 @@
-# Linked List (Vanilla JavaScript)
+# Linked List 
 
 A simple, educational **singly linked list** implementation in plain JS with a small browser harness that runs example tests in the console.
 

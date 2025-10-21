@@ -10,7 +10,7 @@ A simple, educational **singly linked list** implementation in plain JS with a s
 - `pop()` — remove and return the last value  
 - `contains(value)` / `find(value)` — search utilities  
 - `toString()` — pretty print, e.g. `( 5 ) -> ( 10 ) -> null`  
-All methods are implemented in `list.js`. :contentReference[oaicite:0]{index=0}
+All methods are implemented in `list.js`. 
 
 ## 📦 Project Structure
 ```text
@@ -24,4 +24,4 @@ All methods are implemented in `list.js`. :contentReference[oaicite:0]{index=0}
 
 - Node holds { value, next }.
 - LinkedList keeps a head pointer and traverses via next to implement all operations.
-- The included demo builds a list, logs intermediate states, and asserts expected results. The test runner is invoked at the bottom of list.js (runTests();). 
+- The included demo builds a list, logs intermediate states, and asserts expected results. The test runner is invoked at the bottom of list.js runTests();. 

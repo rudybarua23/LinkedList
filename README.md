@@ -24,4 +24,4 @@ All methods are implemented in `list.js`.
 
 - Node holds { value, next }.
 - LinkedList keeps a head pointer and traverses via next to implement all operations.
-- The included demo builds a list, logs intermediate states, and asserts expected results. The test runner is invoked at the bottom of list.js runTests();. 
+- The included demo builds a list, logs intermediate states, and asserts expected results. The test runner is invoked at the bottom of list.js at runTests(). 
